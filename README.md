@@ -41,6 +41,15 @@ AMAZONML_CHALLENGE_25/
 - **Scikit-learn** - Machine learning models
 - **Jupyter Notebooks** - Interactive development and analysis
 
+## 📊 Model Performance
+
+### 🎯 Evaluation Metrics
+- **Mean Squared Error (MSE)**: 729.69
+- **R² Score**: 0.34
+- **Leaderboard Rank**: 133.7 / 82,787
+- **Percentile**: Top 0.16%
+
+
 ## 📊 Results
 - Achieved **rank 133.7** among **82,787 participants**
 - **Top 0.16%** performance in the competition
